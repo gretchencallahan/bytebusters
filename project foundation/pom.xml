@@ -1,0 +1,17 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>DS-final-proj</groupId>
+    <artifactId>DS-final-proj</artifactId>
+    <version>0.0.1</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>core</module>
+        <module>GenerateBasePrice</module>
+        <module>CheckPropertyHistory</module>
+        <module>CheckLocation</module>
+        <module>RentPrice</module>
+        <module>client</module>
+    </modules>
+
+</project>
